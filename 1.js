@@ -4,6 +4,7 @@ asdasd
 123123
 
 const = {
-  some:11
+  some:11,
+  some3:44
 }
 
