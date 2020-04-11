@@ -14,6 +14,7 @@ const = {
   some00:222
   some12:55,
   dev:111,
-  dev1:2222
+  dev1:2222,
+  dev3:333
 }
 
