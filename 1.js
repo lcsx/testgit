@@ -5,6 +5,9 @@ asdasd
 
 const = {
   some:11,
-  some3:44
+  some2:44,
+  some3：44,
+  some5:44,
+  some4:66
 }
 
